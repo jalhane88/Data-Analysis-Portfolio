@@ -1,0 +1,42 @@
+
+# ==============================================================================
+# General .gitignore for a Python Data Science Portfolio
+# ==============================================================================
+
+# --- Data Files ---
+# Ignore all files within any subdirectory named 'data'. This is the most important rule.
+*/data/
+
+# Also ignore specific large data files if they are not in a data folder
+*.csv
+*.db
+*.sqlite3
+
+# --- Python & IDE specific files ---
+# Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+
+# Jupyter/Colab notebook checkpoints (temporary backups)
+.ipynb_checkpoints/
+
+# VS Code settings folder
+.vscode/
+
+# --- OS-specific files ---
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# --- Secrets ---
+# Ignore files containing sensitive information (API keys, passwords, etc.)
+*.env
+secrets.toml
+.secrets

@@ -1,0 +1,34 @@
+
+# --- Core Data Science Libraries ---
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# --- Specialized Libraries ---
+# For Modeling
+xgboost
+imblearn
+
+# For Time Series Forecasting
+statsmodels
+prophet
+
+# For Natural Language Processing (NLP)
+spacy
+nltk
+
+# For Web Scraping
+requests
+beautifulsoup4
+selenium
+undetected-chromedriver
+
+# For Visualization
+plotly
+
+
+# For Notebook Management
+jupyter
+nbconvert
