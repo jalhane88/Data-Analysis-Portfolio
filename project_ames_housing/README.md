@@ -22,4 +22,4 @@ The final model performed very well, achieving an **R-squared of 0.85** and an R
 *   [View the EDA Notebook](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jalhane88/Data-Analysis-Portfolio/refs/heads/main/project_ames_housing/Ames_Housing_EDA.html)
 *   [View the Modeling Notebook](./Ames_Housing_Model.ipynb)
 *   [View the Clean HTML Report of the EDA](./Ames_Housing_EDA.html)
-*   [View the Clean HTML Report of the Modeling](./Ames_Housing_Model.html)
+*   [View the Clean HTML Report of the Modeling](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jalhane88/Data-Analysis-Portfolio/refs/heads/main/project_ames_housing/Ames_Housing_Model.html)
