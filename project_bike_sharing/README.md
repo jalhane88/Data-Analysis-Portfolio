@@ -21,5 +21,5 @@ The final Prophet model significantly outperformed a traditional SARIMAX baselin
 **Full analysis and models can be found in the notebooks:**
 *   [View the EDA Notebook](./Bike_Sharing_EDA.ipynb)
 *   [View the Forecasting Notebook](./Bike_Sharing_Forecasting.ipynb)
-*   [View the Clean HTML Report of the EDA](./Bike_Sharing_EDA.html)
-*   [View the Clean HTML Report of the Forecast](./Bike_Sharing_Forecast.html)
+*   [View the Clean HTML Report of the EDA](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jalhane88/Data-Analysis-Portfolio/refs/heads/main/project_bike_sharing/Bike_Sharing_EDA.html)
+*   [View the Clean HTML Report of the Forecast](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jalhane88/Data-Analysis-Portfolio/refs/heads/main/project_bike_sharing/Bike_Sharing_Forecasting.html)

@@ -21,5 +21,5 @@ The final model achieved an **AUC score of 0.84**.
 **Full analysis and models can be found in the notebooks:**
 *   [View the EDA Notebook](./Telco_Churn_EDA.ipynb)
 *   [View the Modeling Notebook](./Telco_Churn_Model.ipynb)
-*   [View the Clean HTML Report of the EDA](./Telco_Churn_EDA.html)
-*   [View the Clean HTML Report of the Modeling](./Telco_Churn_Model.html)
+*   [View the Clean HTML Report of the EDA](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jalhane88/Data-Analysis-Portfolio/refs/heads/main/project_telco_churn/Telco_Churn_EDA.html)
+*   [View the Clean HTML Report of the Modeling](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jalhane88/Data-Analysis-Portfolio/refs/heads/main/project_telco_churn/Telco_Churn_Model.html)

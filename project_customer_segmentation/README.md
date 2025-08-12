@@ -19,4 +19,4 @@ This rich segmentation allows the marketing team to move from a generic strategy
 
 **The full analysis can be found in the notebook:**
 *   [View the Notebook](./Customer_Segmentation_with_KMeans.ipynb)
-*   [View the Clean HTML Report](./Customer_Segmentation_with_KMeans.html)
+*   [View the Clean HTML Report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jalhane88/Data-Analysis-Portfolio/refs/heads/main/project_customer_segmentation/Customer_Segmentation_with_KMeans.html)

@@ -21,4 +21,4 @@ The test yielded a **p-value of < 0.0001**, which is well below the standard sig
 
 **The full analysis can be found in the notebook:**
 *   [View the Notebook](./AB_Test_Analysis.ipynb)
-*   [View the Clean HTML Report](./AB_Test_Analysis.html)
+*   [View the Clean HTML Report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jalhane88/Data-Analysis-Portfolio/refs/heads/main/project_ab_testing/AB_Test_Analysis.html)

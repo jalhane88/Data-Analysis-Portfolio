@@ -29,4 +29,4 @@ This analysis provides a clear, data-driven priority list for hotel management t
 
 **The full analysis can be found in the notebook:**
 *   [View the Notebook](./Hotel_Review_NLP_EDA.ipynb)
-*   [View the Clean HTML Report](./Hotel_Review_NLP_EDA.html)
+*   [View the Clean HTML Report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jalhane88/Data-Analysis-Portfolio/refs/heads/main/project_nlp_hotel_reviews/Hotel_Review_NLP_EDA.html)
