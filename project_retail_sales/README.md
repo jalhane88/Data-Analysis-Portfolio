@@ -21,5 +21,5 @@ The final model successfully captured the strong upward trend and yearly seasona
 **Full analysis and models can befound in the notebooks:**
 *   [View the EDA Notebook](./Retail_Sales_EDA.ipynb)
 *   [View the Forecasting Notebook](./Retail_Sales_Forecasting.ipynb)
-*   [View the Clean HTML Report of the EDA](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jalhane88/Data-Analysis-Portfolio/refs/heads/main/project_retail_sales/Retail_Sales_EDA_html.html)
+*   [View the Clean HTML Report of the EDA](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jalhane88/Data-Analysis-Portfolio/refs/heads/main/project_retail_sales/Retail_Sales_EDA.html)
 *   [View the Clean HTML Report of the Forecasting](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jalhane88/Data-Analysis-Portfolio/refs/heads/main/project_retail_sales/Retail_Sales_Forecasting.html)
